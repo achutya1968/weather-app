@@ -18,6 +18,7 @@ export default function App() {
 
   return (
     <div className="app">
+    <h2>Weather Forecast</h2>
       <div className="search">
         <input
           type="text"
