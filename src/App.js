@@ -18,8 +18,8 @@ export default function App() {
 
   return (
     <div className="app">
-    <h2>Weather Forecast</h2>
       <div className="search">
+      <h2>Weather Forecast</h2>
         <input
           type="text"
           value={location}
